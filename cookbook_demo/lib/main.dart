@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // MODIFICACAO 1: titulo em portugues.
-    const appTitle = 'Cadastro com validacao';
+    const appTitle = 'Cadastro com validação';
 
     return MaterialApp(
       title: appTitle,
